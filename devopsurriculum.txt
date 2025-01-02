@@ -3,3 +3,9 @@ shell
 ansible
 terraform
 docker
+jenkins
+python
+
+
+
+fdggncbc
